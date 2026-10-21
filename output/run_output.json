@@ -1,0 +1,354 @@
+{
+  "generated_at": "2026-10-21T05:50:35+00:00",
+  "lead": {
+    "from_name": "Rodrigo Castillo",
+    "email": "r.castillo@sqm.cl",
+    "title": "Head of Operations, Northern Operations Division",
+    "company": "Sociedad Quimica y Minera de Chile (SQM)",
+    "country": "Chile",
+    "subject": "Autonomous inspection for our Atacama lithium sites",
+    "context": "Looking for drone-based inspection for 3 large-scale, 24/7 lithium extraction sites in the Atacama Desert. Contracted crews are expensive and hazardous. Referred by Anglo American. Internal budget conversation scheduled for Q3."
+  },
+  "qualification": {
+    "framework": "MEDDIC",
+    "why": "Enterprise, multi-site, safety-critical sale with multiple stakeholders and budget validation; MEDDIC exposes gaps in metrics, economic buyer, criteria, process, pain and champion.",
+    "known_information": {
+      "Metrics": [
+        "3 large-scale sites",
+        "24/7 inspection need",
+        "contracted crews described as expensive",
+        "hazardous work stated by lead"
+      ],
+      "Economic buyer": "Unknown; Rodrigo's title does not establish budget authority.",
+      "Decision criteria": [
+        "Drone-based inspection is desired; technical, safety, integration and ROI criteria unknown."
+      ],
+      "Decision process": [
+        "Internal budget conversation scheduled for Q3 (year and exact date not supplied). Approval/procurement steps unknown."
+      ],
+      "Identify pain": [
+        "Cost of contracted crews",
+        "Hazard exposure",
+        "Need to inspect lithium sites continuously"
+      ],
+      "Champion": "Possible internal advocate, but influence and willingness to champion are unverified."
+    },
+    "missing_information": [
+      "Quantified current inspection cost, crew hours, incident/exposure baseline and desired ROI/payback",
+      "Economic buyer and finance/procurement stakeholders",
+      "Technical owner, HSE lead, IT/security and site managers",
+      "Decision timeline, budget amount/currency and whether Q3 refers to 2026",
+      "Site locations, terrain/communications constraints, drone regulations and flight permissions",
+      "Required sensors, inspection targets, integrations, data residency/security and response SLA",
+      "Anglo American referral contact and permission to reference that relationship"
+    ],
+    "priority_score": 77,
+    "score_scale": "Heuristic 0-100 lead-priority score, not close probability",
+    "score_components": {
+      "account_fit": 25,
+      "pain_urgency": 18,
+      "scale": 15,
+      "timing_signal": 10,
+      "authority_evidence": 4,
+      "budget_evidence": 5
+    },
+    "fit_assessment": "High potential account/use-case fit; qualification is incomplete because quantified metrics, economic buyer, procurement process and confirmed budget are missing.",
+    "recommended_status": "Priority discovery; route to AE for fast response, but do not mark sales-qualified until discovery confirms budget, authority and timeline."
+  },
+  "account_research": {
+    "queries": [
+      "SQM annual report 2025 capital expenditures official investor relations",
+      "SQM leadership organizational structure operations lithium Chile official",
+      "SQM latest news lithium Atacama operations 2026 official",
+      "SQM investor presentation operational priorities sustainability water Atacama",
+      "FlytBase partners Latin America UAV LATAM official"
+    ],
+    "search_results": [
+      {
+        "query": "SQM annual report 2025 capital expenditures official investor relations",
+        "error": "No parsed search results returned",
+        "url": "https://html.duckduckgo.com/html/?q=SQM%20annual%20report%202025%20capital%20expenditures%20official%20investor%20relations"
+      },
+      {
+        "query": "SQM leadership organizational structure operations lithium Chile official",
+        "error": "No parsed search results returned",
+        "url": "https://html.duckduckgo.com/html/?q=SQM%20leadership%20organizational%20structure%20operations%20lithium%20Chile%20official"
+      },
+      {
+        "query": "SQM latest news lithium Atacama operations 2026 official",
+        "error": "No parsed search results returned",
+        "url": "https://html.duckduckgo.com/html/?q=SQM%20latest%20news%20lithium%20Atacama%20operations%202026%20official"
+      },
+      {
+        "query": "SQM investor presentation operational priorities sustainability water Atacama",
+        "error": "No parsed search results returned",
+        "url": "https://html.duckduckgo.com/html/?q=SQM%20investor%20presentation%20operational%20priorities%20sustainability%20water%20Atacama"
+      },
+      {
+        "query": "FlytBase partners Latin America UAV LATAM official",
+        "error": "No parsed search results returned",
+        "url": "https://html.duckduckgo.com/html/?q=FlytBase%20partners%20Latin%20America%20UAV%20LATAM%20official"
+      }
+    ],
+    "public_page_evidence": [
+      {
+        "title": "DuckDuckGo",
+        "url": "https://html.duckduckgo.com/html/?q=SQM%20annual%20report%202025%20capital%20expenditures%20official%20investor%20relations",
+        "excerpt": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+1bbb@duckduckgo.com Code: 1bbb"
+      },
+      {
+        "title": "DuckDuckGo",
+        "url": "https://html.duckduckgo.com/html/?q=SQM%20leadership%20organizational%20structure%20operations%20lithium%20Chile%20official",
+        "excerpt": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+1bbb@duckduckgo.com Code: 1bbb"
+      },
+      {
+        "title": "DuckDuckGo",
+        "url": "https://html.duckduckgo.com/html/?q=SQM%20latest%20news%20lithium%20Atacama%20operations%202026%20official",
+        "excerpt": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+1bbb@duckduckgo.com Code: 1bbb"
+      },
+      {
+        "title": "DuckDuckGo",
+        "url": "https://html.duckduckgo.com/html/?q=SQM%20investor%20presentation%20operational%20priorities%20sustainability%20water%20Atacama",
+        "excerpt": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+1bbb@duckduckgo.com Code: 1bbb"
+      },
+      {
+        "title": "DuckDuckGo",
+        "url": "https://html.duckduckgo.com/html/?q=FlytBase%20partners%20Latin%20America%20UAV%20LATAM%20official",
+        "excerpt": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+1bbb@duckduckgo.com Code: 1bbb"
+      },
+      {
+        "title": "Customer stories | FlytBase",
+        "url": "https://flytbase.com/case-studies",
+        "excerpt": "Customer stories | FlytBase Skip to main content Customer stories The teams running autonomous drones every single day Real deployments from industry leaders in mining, security, public safety, and energy. Every result below is measured, not promised. Featured Construction & Infrastructure How Ibn Firnas Drone Center Is Monitoring Three Government Construction Sites in Oman with Zero On-Site Pilots 0% reduction in stakeholder reporting time Oman Read the story All customer stories All industries"
+      }
+    ],
+    "caveat": "Search snippets and fetched pages are public-source evidence; validate claims and dates before customer-facing use."
+  },
+  "case_study_discovery": {
+    "index_url": "https://flytbase.com/case-studies",
+    "index_error": null,
+    "discovered_count": 10,
+    "ranked_candidates": [
+      {
+        "title": "How SQM Turned a 678 km² Mine into an Autonomous Inspection Zone | FlytBase | FlytBase",
+        "url": "https://flytbase.com/case-studies/sqm-678-km2-mine-autonomous-inspection-adentu-and-flytbase",
+        "score": 27,
+        "text_excerpt": "How SQM Turned a 678 km² Mine into an Autonomous Inspection Zone | FlytBase | FlytBase Skip to main content Back to stories Case study How SQM achieved 4× iodine yield improvement by reducing inspections from weeks to hours Download Case Study Mining Industry 0× higher iodine concentration 0% less hazardous terrain exposure TL;DR SQM, a global leader in lithium, iodine, and nitrate production, partnered with Adentu and FlytBase to bring autonomy from concept to daily routine across its 678 km² mining operation in northern Chile. What began as a pilot for detecting irrigation leaks and leaching inefficiencies evolved into a fully automated inspection ecosystem. By connecting DJI Dock-based drones to FlytBase’s autonomy platform and Azure’s analytics engine, SQM cut inspection time from days to hours, achieved more than 95 percent mission reliability, doubled inspection frequency, and improved iodine extraction yield by two percent, all while building internal trust that autonomy could deliver real operational value. Download Case Study In the Atacama Desert, SQM runs one of the largest open-area mining operations on the planet. Every irrigation line, every sprinkler, and every degree of thermal variation can affect extraction performance. Yet until recently, those checks were manual, with field engineers walking or driving kilometers each day, scanning for leaks and disconnected sprinklers. The innovation team wanted to move faster. They needed inspections that did not depend on human endurance or availability. They wanted data that could tell them, every morning, exactly where to act. That need led them to Adentu, a Chile-based integrator specializing in drone autonomy, and FlytBase, the enterprise autonomy platform built for unattended, data-driven drone operations. Together, they set out to answer a question that still challenges most industrial operations: how do you turn autonomy from a proof of concept into an everyday workflow 02 The challenge For years, SQM’s inspection process was limited by scale. Walking inspections meant hours under the desert sun, while driving offered little precision and no thermal context. Problems often went unnoticed for days. \"",
+        "error": null
+      },
+      {
+        "title": "How Anglo American Uses Autonomous Drones to Transform Mining Safety in Peru | FlytBase Case Study | FlytBase",
+        "url": "https://flytbase.com/case-studies/anglo-american-autonomous-mining-drones-peru-case-study",
+        "score": 25,
+        "text_excerpt": "How Anglo American Uses Autonomous Drones to Transform Mining Safety in Peru | FlytBase Case Study | FlytBase Skip to main content Back to stories Case study How Anglo American is Advancing Mining Safety and Efficiency using Autonomous Drones in Peru Mining Industry 0% Reduced Travel Time 0 Daily survey Images TL;DR Anglo American has successfully deployed drone-in-a-box technology at their Quellaveco copper mine in Peru through a strategic partnership with UAV LATAM, transforming their topographical mapping operations. By replacing manual drone flights with autonomous operations powered by FlytBase's AI-driven platform, the mining giant has eliminated time-consuming truck transport between survey locations while enhancing personnel safety in challenging mountainous terrain. The implementation includes strategic dock placement on elevated positions to maintain communication across the mine's complex geography. This deployment positions Peru as a leader in mining technology adoption in Latin America. ‍ Anglo American, a global leader in mining technology, has pioneered the use of autonomous drones in mining at the Quellaveco copper mine in Peru. By integrating FlytBase’s drone-in-a-box technology and partnering with UAV LATAM, Anglo American has set a new standard for mining safety and operational efficiency in Latin America ‍ This case study examines insights gathered from Anglo American's deployment in collaboration with UAV LATAM, their technology implementation partner. The global mining industry increasingly recognizes autonomous drone technology as essential for operational efficiency and safety. Mining operations worldwide have seen a 67% increase in drone adoption over the past three years, with autonomous systems representing the fastest-growing segment. This trend reflects the industry's commitment to reducing human exposure to hazardous environments while maintaining precise operational oversight. 02 The challenge “The challenge was enabling efficient monitoring of extensive and inaccessible mining areas where the Anglo American’s topography team spends considerable time traveling between locations in trucks and facing security risks during field opera",
+        "error": null
+      },
+      {
+        "title": "Kansanshi Mining Plc (FQM) Transforms Security with UAVs | FlytBase",
+        "url": "https://flytbase.com/case-studies/kansanshi-mining-plc-transformed-mine-security-to-proactive-uav-surveillance",
+        "score": 18,
+        "text_excerpt": "Kansanshi Mining Plc (FQM) Transforms Security with UAVs | FlytBase Skip to main content Back to stories Case study How FS Systems International Helped Kansanshi Mining Transform Mine Security Through Proactive UAV Surveillance Mining Industry South Africa Region 0-50% Faster response times to intrusion events 0-3 Scheduled patrol missions per day TL;DR Kansanshi Mining Plc (KMP), one of Africa's largest copper mines, faced persistent security vulnerabilities across a vast operational site in Zambia: organised syndicates exploiting perimeter gaps, limited night-time visibility, and a security model that consistently arrived too late to prevent losses. Working with FS Systems International Ltd, KMP deployed FlytBase-powered autonomous UAV docks to run continuous aerial patrols, detect intruders in real time, and guide Reaction Teams directly to active incidents. Response times improved by 30 to 50%, successful intrusions in monitored sectors declined noticeably, and KMP has scaled from 2 docks to 4 within months of initial deployment, with further expansion approved before year-end. Kansanshi Mining Plc is a high-value copper mining operation in Zambia, forming part of First Quantum Minerals' global portfolio. The site spans an extensive area with complex terrain, multiple access points, and persistent security challenges including equipment theft, copper cable theft, and organised perimeter intrusions. Mining operations of this scale require surveillance coverage, response speed, and situational awareness that traditional ground patrols alone cannot deliver. 02 The challenge KMP's security operation was protecting a site that conventional ground patrols could not fully cover. Three compounding challenges defined the problem. Perimeter scale and coverage gaps The mine's footprint created natural blind spots that organised intruders consistently exploited. Syndicates of ten or more individuals on motorbikes would enter from the surrounding bush, target tailings areas and equipment storage, and exit before any response team could reach the location. Ground patrols were stretched across too much terrain to maintain consistent visibility, and certain sectors remained",
+        "error": null
+      },
+      {
+        "title": "How TNB Reduced Warehouse Inventory Verification Time by 90x with Autonomous Drones In Malaysia | FlytBase",
+        "url": "https://flytbase.com/case-studies/tnb-warehouse-asset-monitoring-autonomous-drones-malaysia",
+        "score": 10,
+        "text_excerpt": "How TNB Reduced Warehouse Inventory Verification Time by 90x with Autonomous Drones In Malaysia | FlytBase Skip to main content Back to stories Case study How TNB Reduced Warehouse Inventory Verification Time by 90x with Docked Drones in Malaysia Inspections Industry 0% Faster verification 0+ Images processed daily TL;DR Tenaga Nasional Berhad (TNB), Malaysia's leading energy provider, partnered with Aerodyne Group to implement an autonomous dock drone solution powered by FlytBase Enterprise for warehouse asset monitoring across their 43-hectare storage facility. This implementation reduced inventory verification time from three months to just 24 hours, achieved 90% detection accuracy for critical equipment, and enabled daily space optimization planning. TNB has already expanded the use case to include security surveillance and is planning deployment at substations for regular inspections. ‍ Tenaga Nasional Berhad (TNB) serves approximately 10 million households as Malaysia's primary energy supplier, operating an extensive network of distribution and transmission lines throughout Peninsula Malaysia. They also manage power exports to neighboring countries including Singapore and Thailand. As part of their technological transformation strategy, TNB sought efficient ways to monitor and manage their massive warehouse operations. ‍ During one of the NestGen '25 sessions, we spoke with Azfar Helmi, Technical Product Manager in the Operations and Engineering department at Aerodyne Group , a global leader in drone technology and data analytics with presence in 45 countries. Azfar brings over nine years of experience in remote sensing with deep specialization in drone technology, particularly in shaping Aerodyne's nested drone initiatives in mining and energy sectors. Here's what they had to say about revolutionizing warehouse asset monitoring: ‍ 02 The challenge \"Doing manual inspection would take a lot of time. In fact, when we spoke to our client initially back in 2023, the initial pain point was the time constraint because for each round of asset inspection, it would take them about three months to complete.\" - Azfar Helmi, Technical Product Manager, Aerodyne Group T",
+        "error": null
+      },
+      {
+        "title": "<title>Case Study: AgTech360 Transforms Livestock Monitoring with Autonomous Drones</title> | FlytBase",
+        "url": "https://flytbase.com/case-studies/agtech360-livestock-monitoring-autonomous-drones-australia",
+        "score": 8,
+        "text_excerpt": "<title>Case Study: AgTech360 Transforms Livestock Monitoring with Autonomous Drones</title> | FlytBase Skip to main content Back to stories Case study AgTech360 Reduces Livestock Monitoring Time with Autonomous Drones in Australia Agriculture Industry 0% Reduced Inspection Time TL;DR AgTech360, an Australian agricultural technology firm, implemented a comprehensive drone-based livestock monitoring system powered by FlytBase's drone autonomy software. The solution addresses critical challenges in Australia's vast farming landscapes, including labor shortages and water resource management. The autonomous drone system enables farmers to conduct remote inspections, monitor livestock movements, and enhance security across expansive properties. Early deployments show significant time savings—reducing inspection times by up to 75% while improving overall farm management efficiency and animal welfare. During one of the NestGen '25 sessions, we spoke with Coenraad Brandt, Project Manager at AgTech360, a leading Australian agricultural technology firm specializing in precision monitoring and farm management systems. With extensive experience in agricultural technology implementation across South Africa, New Zealand, and Australia, Coenraad brings a unique perspective on the challenges facing modern livestock operations. AgTech360 has established itself as an innovative force in Australian agricultural technology, creating integrated solutions that address the unique challenges of managing livestock across the continent's vast and diverse landscapes. The company's farm management platform brings together various data sources—from live camera feeds to GIS data and animal sensor information—to provide farmers with comprehensive insights for informed decision-making. Here's what they had to say about leveraging autonomous drones for precision livestock monitoring 👇 02 The challenge \"Australia is known for its variable climate, droughts, floods, extreme temperatures, and it's one of the driest habitable continents. It's also a mass of areas. I mean, just to give you a bit of background, driving from coast to coast is like driving to the moon and back twice.\" said Coenraad Bran",
+        "error": null
+      },
+      {
+        "title": "Months ROI timeline | FlytBase",
+        "url": "https://flytbase.com/case-studies/uae-waste-management-autonomous-drone-implementation-case-study",
+        "score": 8,
+        "text_excerpt": "Months ROI timeline | FlytBase Skip to main content Back to stories Case study How UAE Waste Management Authority Enhances Facility Operations using Autonomous Drones Emergency Response Industry 0% Reduction in manual inspections 0+ 12 TL;DR The UAE Waste Management Authority partnered with The Drone Centre to implement autonomous drone technology powered by FlytBase software at multiple waste management facilities across the UAE. By deploying DJI docks integrated with specialized sensors, they addressed critical challenges in security surveillance, environmental monitoring, hazardous material detection, and operational efficiency. The solution provides 24/7 autonomous surveillance, real-time hazard detection, volumetric analysis of waste materials, and ensures regulatory compliance while reducing manual labor requirements and improving worker safety. ‍ During one of the NestGen ‘25 sessions, we spoke with Samruddh Ramesh, Technical Product Manager at The Drone Centre, a specialized drone solution provider with expertise in AI-driven drone automation for industrial applications across the UAE. The UAE Waste Management Authority operates multiple large-scale waste management facilities across Dubai, Abu Dhabi, and Sharjah, managing critical waste disposal operations throughout the region. Facing challenges with traditional monitoring methods in their hazardous environments, they sought innovative technologies to enhance operational safety and efficiency. Here's what they had to say about implementing autonomous drone technology in waste management 👇 ‍ 02 The challenge \"Managing large-scale waste facilities comes with unique operational challenges - constant monitoring, safety risks, and efficiency bottlenecks. Traditional inspection and surveillance methods are slow, labor-intensive, and often reactive rather than proactive,\" explains Samruddh Ramesh, Technical Product Manager at The Drone Centre. The waste management authority faced several specific challenges: Difficult-to-Access Areas : Landfill sites contained numerous hard-to-reach and hazardous areas where sending personnel posed significant safety risks. Security Vulnerabilities : Illegal waste dumping and",
+        "error": null
+      },
+      {
+        "title": "How Sensorem Deployed 20+ Autonomous Drones Across Remote Australian Industrial Sites | FlytBase",
+        "url": "https://flytbase.com/case-studies/sensorem-autonomous-docked-drones-deployment-australia",
+        "score": 8,
+        "text_excerpt": "How Sensorem Deployed 20+ Autonomous Drones Across Remote Australian Industrial Sites | FlytBase Skip to main content Back to stories Case study How Sensorem Deployed 20+ AI-Powered Dock Systems Across Remote Australian Industrial Sites Agriculture Industry 0 Autonomous BVLOS flights 0-7 Drone operations TL;DR Sensorem has successfully deployed a network of 20 autonomous drone-in-a-box systems across remote industrial sites in Western Australia. Using DJI Dock integrated with FlytBase AI-R software and custom communication systems, Sensorem overcame extreme environmental challenges to deliver 24/7 autonomous operations. The implementation has completed over 11,000 BVLOS missions for industrial site monitoring, asset inspection, and security surveillance, with plans to scale to 50 systems by the end of 2025. Sensorem , an Australian aviation and drone technology pioneer, has established itself as an industry leader in autonomous drone operations across regional Australia. The company has secured groundbreaking BVLOS approvals enabling truly autonomous drone operations and has been instrumental in deploying some of the first DJI Dock systems for industrial applications in the country. During one of the NestGen '25 sessions, we spoke with Ed Boxall, Founder and Managing Director of Sensorem, and Cooper Smart, General Manager. Sensorem is a leading Australian drone technology integrator with over 12 years of commercial drone operations experience, pioneering autonomous drone solutions across some of Australia's most challenging and remote industrial environments. Here's what they had to say about scaling autonomous drone operations in remote environments: ‍ 02 The challenge \" The distances are vast. Even something that seems just a few hundred kilometers away to go out to site and back is often a five or six hour round trip. \" - Ed Boxall, Founder and Managing Director, Sensorem Sensorem faced several significant challenges in deploying autonomous drone systems across regional Australia: Extreme Environmental Conditions : Operating in Western Australia meant contending with temperatures reaching 45°C in summer, freezing overnight conditions in winter, and dusty, har",
+        "error": null
+      },
+      {
+        "title": "How CSX Enhances Rail Safety with Autonomous Drone Inspections | FlytBase",
+        "url": "https://flytbase.com/case-studies/csx-autonomous-drone-rail-inspection",
+        "score": 8,
+        "text_excerpt": "How CSX Enhances Rail Safety with Autonomous Drone Inspections | FlytBase Skip to main content Back to stories Case study How CSX Transportation is Mitigating Rail Risks using Autonomous Drone Ops in US Transportation Industry 0/8 inch defect detection 0 Deployed sites TL;DR CSX Transportation, one of the nation's leading rail carriers operating 20,000 route miles across the Eastern United States, implemented an autonomous drone inspection system powered by FlytBase to enhance rail yard safety. Using DJI Matrice 350 RTK drones stationed in weatherproof docks at 13 sites across 10 locations, CSX's solution autonomously inspects critical infrastructure components like switches and rails. The system can detect defects as small as 1/8 inch (the width of a credit card) from 100 feet above tracks and streamlines inspection workflows while removing personnel from potentially dangerous situations. CSX Transportation stands as a critical infrastructure provider in North America, moving freight efficiently with trains that can transport a ton of cargo more than 500 miles on a single gallon of fuel. The company's rail network serves nearly two-thirds of the American population, making it an essential component of the nation's supply chain. ‍ During one of the NestGen '25 sessions, we spoke with Patrick Barnett, Technical Director of GIS Services, and Anthony Foisy, Senior GIS Engineer at CSX Transportation, a premier freight railroad provider servicing the Eastern United States with a vast network spanning 20,000 route miles across 26 states, Washington D.C., and parts of Canada. Here's what they had to say about implementing autonomous drone operations to mitigate rail risks 👇 ‍ 02 The challenge \" Safety is our number one pillar here for CSX Transportation. We want our employees, we want the public, we want everybody to go home the way they came to work that day ,\" - Patrick Barnett, Technical Director, GIS Services, CSX Transportation CSX faced several critical challenges in maintaining their extensive rail infrastructure: Safety Risks to Personnel : Traditional rail inspection methods required workers to physically examine tracks, switches, and joint bars, exposing them",
+        "error": null
+      }
+    ],
+    "selection_method": "Live FlytBase case-study index links scored against lead context; no fixed URL."
+  },
+  "email_sequence": {
+    "sequence": [
+      {
+        "step": 1,
+        "timing": "Immediately",
+        "purpose": "Acknowledge the operational pain and book discovery",
+        "subject": "Atacama inspections: reducing crew exposure across three sites",
+        "body": "Hi Rodrigo,\n\nThanks for reaching out. Your note about continuous inspections across three Atacama lithium sites—and the cost and exposure associated with contracted crews—sounds like a useful problem to quantify before your Q3 budget discussion.\n\nFlytBase supports autonomous drone operations; the right first step is to understand the inspection workflow rather than assume a particular deployment. Could we schedule 25 minutes to cover the assets inspected, current inspection frequency/cost, hazardous access points, and what a successful pilot would need to prove?\n\nWould early next week work?\n\nBest,\nFlytBase Inbound Team",
+        "progression_logic": "Lead is high-fit and has a stated budget discussion; respond quickly and ask for a discovery call, not a premature demo."
+      },
+      {
+        "step": 2,
+        "timing": "After 3 business days if no reply",
+        "purpose": "Offer a relevant peer example and clarify the referral",
+        "subject": "A mining deployment worth comparing with your Atacama use case",
+        "body": "Hi Rodrigo,\n\nI wanted to share a relevant mining example from FlytBase's public case-study library: How SQM Turned a 678 km² Mine into an Autonomous Inspection Zone | FlytBase | FlytBase. The useful comparison is how autonomous drone operations can reduce repeated travel and keep people away from difficult areas; the actual fit for SQM would depend on your inspection targets, connectivity and site rules.\n\nYou mentioned Anglo American referred you. If appropriate, could you share the team or contact who made the introduction? That would help us understand which workflow is most relevant without assuming the two operations are identical.\n\nWould a short working session be useful?\n\nBest,\nFlytBase Inbound Team",
+        "progression_logic": "Adds proof relevant to mining and asks about referral context while avoiding unsupported performance promises."
+      },
+      {
+        "step": 3,
+        "timing": "After 5 further business days if no reply",
+        "purpose": "Help prepare a budget-ready business case",
+        "subject": "Useful inputs for your Q3 inspection business case",
+        "body": "Hi Rodrigo,\n\nTo make an initial business case useful for your Q3 discussion, we could model a small set of inputs: annual contracted inspection spend, crew hours in hazardous areas, inspection frequency today versus target, and the cost of a docked-drone pilot at one representative site.\n\nWe would also want to confirm who owns operations, HSE, IT/security and budget approval, plus any Chilean aviation or site constraints that need to be considered. If timing has changed, just let me know and I can adjust.\n\nShould I send a one-page discovery checklist, or would you prefer a 20-minute call?\n\nBest,\nFlytBase Inbound Team",
+        "progression_logic": "Turns missing MEDDIC data into a low-friction next step; offers an alternative to a meeting."
+      }
+    ]
+  },
+  "email_generation_method": "rule-based fallback (OPENAI_API_KEY not set)",
+  "partner_recommendation": {
+    "recommendation": "AE-led discovery with a LATAM drone/implementation partner considered for local deployment",
+    "confidence": "Medium-low until partner availability, coverage and current authorization are confirmed",
+    "rationale": [
+      "Enterprise, multi-site and 24/7 scope merits direct AE ownership.",
+      "Chile/Atacama operations may require local aviation, field service, connectivity and integration expertise.",
+      "The public FlytBase Anglo American Peru story references UAV LATAM; this is evidence of a regional ecosystem connection, not proof of current availability or coverage in Chile."
+    ],
+    "verification_required": [
+      "Confirm whether UAV LATAM is an active FlytBase partner and can serve SQM in Chile.",
+      "Confirm Chile-specific regulatory/operational capability, support SLA and commercial model.",
+      "Keep AE as commercial owner unless FlytBase's channel policy indicates otherwise."
+    ],
+    "public_evidence": [
+      {
+        "query": "FlytBase partners Latin America UAV LATAM official",
+        "error": "No parsed search results returned",
+        "url": "https://html.duckduckgo.com/html/?q=FlytBase%20partners%20Latin%20America%20UAV%20LATAM%20official"
+      }
+    ]
+  },
+  "_handoff": {
+    "buyer_context": {
+      "name": "Rodrigo Castillo",
+      "title": "Head of Operations, Northern Operations Division",
+      "company": "Sociedad Quimica y Minera de Chile (SQM)",
+      "cares_about": [
+        "inspection cost",
+        "worker safety/exposure",
+        "24/7 coverage across three sites",
+        "Q3 budget preparation"
+      ],
+      "other_stakeholders": [
+        "economic buyer/finance (unknown)",
+        "HSE (unknown)",
+        "IT/security (unknown)",
+        "site managers (unknown)",
+        "procurement (unknown)"
+      ]
+    },
+    "qualification": {
+      "framework": "MEDDIC",
+      "why": "Enterprise, multi-site, safety-critical sale with multiple stakeholders and budget validation; MEDDIC exposes gaps in metrics, economic buyer, criteria, process, pain and champion.",
+      "known_information": {
+        "Metrics": [
+          "3 large-scale sites",
+          "24/7 inspection need",
+          "contracted crews described as expensive",
+          "hazardous work stated by lead"
+        ],
+        "Economic buyer": "Unknown; Rodrigo's title does not establish budget authority.",
+        "Decision criteria": [
+          "Drone-based inspection is desired; technical, safety, integration and ROI criteria unknown."
+        ],
+        "Decision process": [
+          "Internal budget conversation scheduled for Q3 (year and exact date not supplied). Approval/procurement steps unknown."
+        ],
+        "Identify pain": [
+          "Cost of contracted crews",
+          "Hazard exposure",
+          "Need to inspect lithium sites continuously"
+        ],
+        "Champion": "Possible internal advocate, but influence and willingness to champion are unverified."
+      },
+      "missing_information": [
+        "Quantified current inspection cost, crew hours, incident/exposure baseline and desired ROI/payback",
+        "Economic buyer and finance/procurement stakeholders",
+        "Technical owner, HSE lead, IT/security and site managers",
+        "Decision timeline, budget amount/currency and whether Q3 refers to 2026",
+        "Site locations, terrain/communications constraints, drone regulations and flight permissions",
+        "Required sensors, inspaeection targets, integrations, data residency/security and response SLA",
+        "Anglo American referral contact and permission to reference that relationship"
+      ],
+      "priority_score": 77,
+      "score_scale": "Heuristic 0-100 lead-priority score, not close probability",
+      "score_components": {
+        "account_fit": 25,
+        "pain_urgency": 18,
+        "scale": 15,
+        "timing_signal": 10,
+        "authority_evidence": 4,
+        "budget_evidence": 5
+      },
+      "fit_assessment": "High potential account/use-case fit; qualification is incomplete because quantified metrics, economic buyer, procurement process and confirmed budget are missing.",
+      "recommended_status": "Priority discovery; route to AE for fast response, but do not mark sales-qualified until discovery confirms budget, authority and timeline."
+    },
+    "research_highlights": [
+      {
+        "title": "DuckDuckGo",
+        "url": "https://html.duckduckgo.com/html/?q=SQM%20annual%20report%202025%20capital%20expenditures%20official%20investor%20relations",
+        "excerpt": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+1bbb@duckduckgo.com Code: 1bbb"
+      },
+      {
+        "title": "DuckDuckGo",
+        "url": "https://html.duckduckgo.com/html/?q=SQM%20leadership%20organizational%20structure%20operations%20lithium%20Chile%20official",
+        "excerpt": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+1bbb@duckduckgo.com Code: 1bbb"
+      },
+      {
+        "title": "DuckDuckGo",
+        "url": "https://html.duckduckgo.com/html/?q=SQM%20latest%20news%20lithium%20Atacama%20operations%202026%20official",
+        "excerpt": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+1bbb@duckduckgo.com Code: 1bbb"
+      }
+    ],
+    "recommended_case_study": {
+      "title": "How SQM Turned a 678 km² Mine into an Autonomous Inspection Zone | FlytBase | FlytBase",
+      "url": "https://flytbase.com/case-studies/sqm-678-km2-mine-autonomous-inspection-adentu-and-flytbase",
+      "score": 27,
+      "text_excerpt": "How SQM Turned a 678 km² Mine into an Autonomous Inspection Zone | FlytBase | FlytBase Skip to main content Back to stories Case study How SQM achieved 4× iodine yield improvement by reducing inspections from weeks to hours Download Case Study Mining Industry 0× higher iodine concentration 0% less hazardous terrain exposure TL;DR SQM, a global leader in lithium, iodine, and nitrate production, partnered with Adentu and FlytBase to bring autonomy from concept to daily routine across its 678 km² mining operation in northern Chile. What began as a pilot for detecting irrigation leaks and leaching inefficiencies evolved into a fully automated inspection ecosystem. By connecting DJI Dock-based drones to FlytBase’s autonomy platform and Azure’s analytics engine, SQM cut inspection time from days to hours, achieved more than 95 percent mission reliability, doubled inspection frequency, and improved iodine extraction yield by two percent, all while building internal trust that autonomy could deliver real operational value. Download Case Study In the Atacama Desert, SQM runs one of the largest open-area mining operations on the planet. Every irrigation line, every sprinkler, and every degree of thermal variation can affect extraction performance. Yet until recently, those checks were manual, with field engineers walking or driving kilometers each day, scanning for leaks and disconnected sprinklers. The innovation team wanted to move faster. They needed inspections that did not depend on human endurance or availability. They wanted data that could tell them, every morning, exactly where to act. That need led them to Adentu, a Chile-based integrator specializing in drone autonomy, and FlytBase, the enterprise autonomy platform built for unattended, data-driven drone operations. Together, they set out to answer a question that still challenges most industrial operations: how do you turn autonomy from a proof of concept into an everyday workflow 02 The challenge For years, SQM’s inspection process was limited by scale. Walking inspections meant hours under the desert sun, while driving offered little precision and no thermal context. Problems often went unnoticed for days. \"",
+      "error": null
+    },
+    "partner_motion": {
+      "recommendation": "AE-led discovery with a LATAM drone/implementation partner considered for local deployment",
+      "confidence": "Medium-low until partner availability, coverage and current authorization are confirmed",
+      "rationale": [
+        "Enterprise, multi-site and 24/7 scope merits direct AE ownership.",
+        "Chile/Atacama operations may require local aviation, field service, connectivity and integration expertise.",
+        "The public FlytBase Anglo American Peru story references UAV LATAM; this is evidence of a regional ecosystem connection, not proof of current availability or coverage in Chile."
+      ],
+      "verification_required": [
+        "Confirm whether UAV LATAM is an active FlytBase partner and can serve SQM in Chile.",
+        "Confirm Chile-specific regulatory/operational capability, support SLA and commercial model.",
+        "Keep AE as commercial owner unless FlytBase's channel policy indicates otherwise."
+      ],
+      "public_evidence": [
+        {
+          "query": "FlytBase partners Latin America UAV LATAM official",
+          "error": "No parsed search results returned",
+          "url": "https://html.duckduckgo.com/html/?q=FlytBase%20partners%20Latin%20America%20UAV%20LATAM%20official"
+        }
+      ]
+    },
+    "suggested_next_step": "AE to contact Rodrigo promptly for a 25-minute discovery call; quantify current inspection cost and safety exposure, confirm Q3 year/date, map economic buyer/HSE/IT stakeholders, and validate pilot constraints.",
+    "rationale": "High account/use-case fit with urgency signals, but not fully sales-qualified until budget, authority, metrics and procurement path are confirmed."
+  }
+}

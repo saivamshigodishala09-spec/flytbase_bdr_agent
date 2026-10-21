@@ -1,0 +1,6 @@
+Run time UTC: 2026-10-21T05:50:35+00:00
+Input: lead.json
+Pages fetched: 6
+Search results: 5
+Case-study candidates discovered: 10
+Email generation: rule-based fallback (OPENAI_API_KEY not set)
